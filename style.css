@@ -30,6 +30,7 @@ header p{
     background: lightblue;
     width : 100%;
     display: flex;
+    z-index: 1;
 }
 
 .pads > div{
